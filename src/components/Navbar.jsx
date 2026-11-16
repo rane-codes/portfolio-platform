@@ -1,4 +1,4 @@
-export default function () {
+// export default function () {
     return(
         <div className="navbar bg-base-100 shadow-sm">
   <div className="flex-1">

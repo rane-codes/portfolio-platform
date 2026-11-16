@@ -1,11 +1,10 @@
-import Navbar from './components/Navbar'
+// import Navbar from './components/Navbar'
 import Hero from './sections/Hero'
 // import Footer from './components/Footer'
-
 import { useState } from "react";
 import ProjectForm from "./components/ProjectForm";
 import ProjectList from "./components/ProjectList";
-// import me from "./assets/me.jpg";
+// import me from "./public/me.jpg";
 
 const initialProjects = [
   { id: 1, title: "Portfolio Platform", description: "A React SPA to showcase my work." },
