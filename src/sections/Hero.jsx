@@ -4,7 +4,7 @@ export default function Hero() {
   <div className="hero-content flex-col lg:flex-row-reverse">
     <img
       alt="Tailwind CSS hero component"
-      src="/me.jpg"
+      src="me.jpg"
       className="max-w-sm rounded-lg shadow-2xl"
     />
     
